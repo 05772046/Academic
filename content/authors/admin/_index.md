@@ -38,6 +38,4 @@ Gregory Wong, Attending Physician/Lecturer, PhD, Surgery. My research interests 
 
 During my PhD, I mainly studied the expression and function of SIRT4 in gastrointestinal tumors, and I published two SCI papers during my PhD research. After my work, I conducted more in-depth mechanism research based on the original experiments and applied for the general project of Zhejiang Provincial Natural Science Foundation. At the same time, I also studied the expression and function of SIRT4 in other human tumors horizontally, and summarized and wrote a review on the related research of SIRT4 in tumors. So far, I have published 12 SCI papers, including one review, with the first author or corresponding author. 200,000 RMB start-up funding has produced more than 10 SCI papers, and I still have 5 articles in hand that have not yet been published. So far, he has hosted one general project of Zhejiang Provincial Natural Science Foundation and one project of Wenzhou Science and Technology Bureau, both of which have been completed.
 
-My contact email is gregory.sangsang@gmail.com..
-
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
