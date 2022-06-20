@@ -1,5 +1,5 @@
 ---
-widget: contact huangguoyu.greg@gmail.com
+widget: "contact "
 widget_id: "  "
 headless: true
 weight: 130
