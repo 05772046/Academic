@@ -1,7 +1,7 @@
 ---
 title: Gregory Wong
 role: Doctor of Surgery, Attending Physician, Lecturer
-avatar_filename: avatar.png
+avatar_filename: avatar.jpg
 bio: My research interests include tumor-associated gene screening and validation.
 interests:
   - Functional genomics; Bioinformatics analysis; Tumor-associated gene screening
