@@ -34,6 +34,7 @@ image:
   caption: ""
   focal_point: ""
   preview_only: false
+  filename: null
 date: 2018-07-11T00:00:00.000Z
 url_slides: ""
 publishDate: 2017-01-01T00:00:00.000Z
